@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043055114005",
+    "firebase_url": "https://arun-brew-crew.firebaseio.com",
+    "project_id": "arun-brew-crew",
+    "storage_bucket": "arun-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043055114005:android:b2e522691dd8466ef71b1c",
+        "android_client_info": {
+          "package_name": "com.arun_singh_lodhi.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043055114005-mh524kgdd52m26vrgb2s8vbhrp606lhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdopKroWWPOzd8ov67SvNvceRJ8nC8xw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043055114005-mh524kgdd52m26vrgb2s8vbhrp606lhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
